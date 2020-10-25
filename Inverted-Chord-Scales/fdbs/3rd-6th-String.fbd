@@ -80,15 +80,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../blockElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -117,13 +109,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -296,7 +282,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>0.7672916666</width>
         <height>0.7672916666</height>
@@ -1642,22 +1628,8 @@
         <isTransparentBackground>false</isTransparentBackground>
         <customSize>0</customSize>
         <location>
-          <stringNumber>3</stringNumber>
-          <fret>14</fret>
-        </location>
-        <type reference="../../../fretboard[2]/dot/type"/>
-        <backgroundStyle>DEFAULT</backgroundStyle>
-        <isOutlined>false</isOutlined>
-        <sizeKind>DEFAULT_SIZE</sizeKind>
-        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
-        <isOctaveVisible>false</isOctaveVisible>
-      </dot>
-      <dot>
-        <isTransparentBackground>false</isTransparentBackground>
-        <customSize>0</customSize>
-        <location>
           <stringNumber>5</stringNumber>
-          <fret>16</fret>
+          <fret>15</fret>
         </location>
         <type reference="../../../fretboard[2]/dot/type"/>
         <backgroundStyle>DEFAULT</backgroundStyle>
@@ -1688,6 +1660,25 @@
           <fret>0</fret>
         </location>
         <type reference="../../../fretboard/dot[5]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <intervalName>FLAT_5TH</intervalName>
+        <noteName>A_flat</noteName>
         <backgroundStyle>DEFAULT</backgroundStyle>
         <isOutlined>false</isOutlined>
         <sizeKind>DEFAULT_SIZE</sizeKind>
