@@ -80,19 +80,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle>
-              <parentStyle>
-                <parentStyle class="canvasStyle" fontFamily="Segoe UI" fontHeight="9"/>
-              </parentStyle>
-            </parentStyle>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -121,13 +109,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -299,7 +281,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>0.7672916666</width>
         <height>0.7672916666</height>
@@ -396,15 +378,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../../../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -433,13 +407,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -605,7 +573,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>0.7672916666</width>
         <height>0.7672916666</height>
@@ -702,15 +670,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../../../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -739,13 +699,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -911,7 +865,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>-0.05291666666</width>
         <height>-0.05291666666</height>
@@ -1008,15 +962,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../../../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -1045,13 +991,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -1217,7 +1157,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>0.7672916666</width>
         <height>0.7672916666</height>
@@ -1314,15 +1254,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../../../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -1351,13 +1283,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -1523,7 +1449,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>0.7672916666</width>
         <height>0.7672916666</height>
@@ -1620,15 +1546,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../../../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -1657,13 +1575,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -1779,7 +1691,7 @@
       <tuningBackgroundColour hex="#FFFFFF"/>
       <tuningForegroundColour hex="#000000"/>
       <key>NONE</key>
-      <rootNote>C</rootNote>
+      <rootNote>A</rootNote>
       <backgroundStyle>COLOUR</backgroundStyle>
       <fretboardTexture>textures/H1555_ST15.jpg</fretboardTexture>
       <fretboardColor hex="#FFFF96"/>
@@ -1829,7 +1741,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>-0.05291666666</width>
         <height>-0.05291666666</height>
@@ -1926,15 +1838,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../../../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -1963,13 +1867,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -2135,7 +2033,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>-0.05291666666</width>
         <height>-0.05291666666</height>
@@ -2232,15 +2130,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle>
-            <parentStyle reference="../../../../../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
-          </parentStyle>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -2269,13 +2159,7 @@
             </parentStyle>
           </containerStyle>
         </blockElement>
-        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
-          <parentStyle reference="../../../titleElement/containerStyle/parentStyle"/>
-          <fontColor reference="../../blockElement/containerStyle/parentStyle/fontColor"/>
-          <fillColor reference="../../blockElement/containerStyle/parentStyle/fillColor"/>
-          <borderThickness>2</borderThickness>
-          <isTransparent>true</isTransparent>
-        </containerStyle>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
         <isAspectRatioEnabled>false</isAspectRatioEnabled>
         <location units="cm">
           <width>0</width>
@@ -2441,7 +2325,7 @@
       <legendForegroundColour hex="#000000"/>
       <leftHanded>false</leftHanded>
       <flipped>false</flipped>
-      <fretboardStyle reference="../titleElement/containerStyle/parentStyle"/>
+      <fretboardStyle reference="../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
       <defaultDotSize units="cm">
         <width>0.7672916666</width>
         <height>0.7672916666</height>
@@ -2514,7 +2398,7 @@
     </fretboard>
     <connections/>
     <backgroundColor hex="#FFFFFF"/>
-    <pageStyle reference="../fretboard/titleElement/containerStyle/parentStyle/parentStyle"/>
+    <pageStyle reference="../fretboard/titleElement/blockElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
     <pageSize units="CENTIMETRES">
       <width>21.0</width>
       <height>29.7</height>
@@ -2552,5 +2436,5 @@
   <snapToGeometry>true</snapToGeometry>
   <gridEnabled>false</gridEnabled>
   <zoom>1.0</zoom>
-  <documentStyle reference="../page/fretboard/titleElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
+  <documentStyle reference="../page/fretboard/titleElement/blockElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
 </document>
