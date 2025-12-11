@@ -1,0 +1,333 @@
+<document version="2.8" origin="WIN32">
+  <location units="cm">
+    <width>0</width>
+    <height>0</height>
+  </location>
+  <documentStyle>
+    <parentStyle class="canvasStyle" fontFamily="Segoe UI" fontHeight="9.0"/>
+  </documentStyle>
+  <instrumentsUsed/>
+  <imagesData/>
+  <page>
+    <location units="cm">
+      <width>0</width>
+      <height>0</height>
+    </location>
+    <pageStyle>
+      <parentStyle reference="../../../documentStyle"/>
+    </pageStyle>
+    <textElement type="8">
+      <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+        <parentStyle reference="../../../pageStyle"/>
+        <fontColor hex="#000000"/>
+        <borderColor hex="#000000"/>
+        <fillColor hex="#C0C0C0"/>
+        <highlightColor hex="#FFFFFF"/>
+        <borderThickness>2</borderThickness>
+        <borderShow>true</borderShow>
+        <isTransparent>true</isTransparent>
+      </containerStyle>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>48 triads: 4 qualities (maj, min, dim, aug), 4 string sets, 3 inversions</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>There are 5 shapes, C,A,G,E,D.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Triad notes in the &quot;shape&quot; as the &quot;nucleus form&quot; (Edwards)</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>All triad notes in the shape&apos;s position as &quot;full form&quot;. (Edwards)</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>The 5 CAGED shapes have 4 quality versions (maj, min, dim, aug). We apply the following alterations to form the other qualities as follows:</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Major to Minor: lower the 3rd.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Major to Augmented: raise the 5th</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Minor to Diminished: lower the 5th</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Five pentatonic shapes fit onto a CAGED shape&apos;s full form.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Five diatonic shapes fit onto a CAGED shape&apos;s full form.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Five 7th chord arpeggio shapes fit onto a CAGED shape&apos;s full form.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>It is useful to learn the diatonic and pentatonic scales that outline the nuclear form triad in a CAGED shape.It is useful to tie the positions together end to end, play fragments horizontally, break out of vertical.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>There are two Blues qualities: Dominant 7th Blues and Minor Blues.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>T-Bone Walker defines the canon for Dom7 blues that influence western swing, jump blues, rockabilly, country, rock, R&amp;B and more.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>It is useful to understand chord substitution and associated chord tones and scales.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>It is useful in jazz and related to expand substitution to parallel modes.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>We are not at this time going to cover harmonic and melodic minor and related modes or altered scales and chord tones.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>The above provides a framework for fretboard knowledge in the major system.  Blues music normally has a i-IV-V chord progression, passing chords and substitutions are often employed.  Jazz often uses ii-V7-I chord progression, like blues, passing chords and substitutions are often used.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>What about improv or solo or lead parts?  Now that you have the vocabulary laid out on the fretboard, what do you play?  Outine the chord with chord tones and scales.  Ok, but is the principle for playing those elements?  Call and response, motif, repeat motif, turnarounds, OK.  What we are really asking is, how do I phrase my solo?  This topic is often called &quot;phrasing&quot; or &quot;voice leading&quot;.  We are going to call it &quot;The Anatomy of a Lick&quot;.  What attributes does a line have that creates tension and resolve?  </content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content></content>
+        </text>
+      </blockElement>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <location units="cm">
+        <width>1.217083333</width>
+        <height>0.396875</height>
+      </location>
+      <size units="cm">
+        <width>18.970625</width>
+        <height>29.07770834</height>
+      </size>
+      <shape>RECTANGLE</shape>
+      <textType>TEXT</textType>
+      <hasShadow>false</hasShadow>
+    </textElement>
+    <connections/>
+    <backgroundColor hex="#FFFFFF"/>
+    <pageSize units="CENTIMETRES">
+      <width>21.0</width>
+      <height>29.7</height>
+    </pageSize>
+  </page>
+  <leftRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>false</horizontal>
+  </leftRuler>
+  <topRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>true</horizontal>
+  </topRuler>
+  <rulersVisibility>true</rulersVisibility>
+  <snapToGeometry>true</snapToGeometry>
+  <gridEnabled>false</gridEnabled>
+  <zoom>1.0</zoom>
+</document>
