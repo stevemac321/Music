@@ -1,0 +1,2634 @@
+<document version="2.8" origin="WIN32">
+  <location units="cm">
+    <width>0</width>
+    <height>0</height>
+  </location>
+  <documentStyle>
+    <parentStyle class="canvasStyle" fontFamily="Segoe UI" fontHeight="9.0"/>
+  </documentStyle>
+  <instrumentsUsed>
+    <tuning>
+      <name>Standard</name>
+      <id>100</id>
+      <instrument>
+        <name>Six String</name>
+        <id>3</id>
+        <stringCount>6</stringCount>
+        <category>
+          <name>Guitar</name>
+          <id>1</id>
+        </category>
+      </instrument>
+      <stringsHighToLow>
+        <instrumentString>
+          <note>E</note>
+          <octave>C4C5</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>B</note>
+          <octave>C3C4</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>G</note>
+          <octave>C3C4</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>D</note>
+          <octave>C3C4</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>A</note>
+          <octave>C2C3</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>E</note>
+          <octave>C2C3</octave>
+        </instrumentString>
+      </stringsHighToLow>
+    </tuning>
+  </instrumentsUsed>
+  <imagesData/>
+  <page>
+    <location units="cm">
+      <width>0</width>
+      <height>0</height>
+    </location>
+    <pageStyle>
+      <parentStyle reference="../../../documentStyle"/>
+    </pageStyle>
+    <fretboard>
+      <location units="cm">
+        <width>1.984375</width>
+        <height>0.79375</height>
+      </location>
+      <size units="cm">
+        <width>15.98083333</width>
+        <height>6.50875</height>
+      </size>
+      <fretboardStyle>
+        <parentStyle reference="../../../pageStyle"/>
+      </fretboardStyle>
+      <titleElement type="8">
+        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+          <parentStyle reference="../../../fretboardStyle"/>
+          <fontColor hex="#000000"/>
+          <fillColor hex="#FFFFFF"/>
+          <borderThickness>2</borderThickness>
+          <isTransparent>true</isTransparent>
+        </containerStyle>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+              <parentStyle>
+                <parentStyle reference="../../../../../../../pageStyle"/>
+              </parentStyle>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+          <text type="0">
+            <content>C                  A             G            E         D</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>HEADER</textType>
+        <hasShadow>false</hasShadow>
+      </titleElement>
+      <footerElement type="8">
+        <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+          <parentStyle reference="../../../fretboardStyle"/>
+          <fontColor hex="#000000"/>
+          <fillColor hex="#FFFFFF"/>
+          <borderThickness>2</borderThickness>
+          <isTransparent>true</isTransparent>
+        </containerStyle>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+              <parentStyle reference="../../../../../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+          <text type="0">
+            <content>Footer</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>FOOTER</textType>
+        <hasShadow>false</hasShadow>
+      </footerElement>
+      <textElement reference="../titleElement"/>
+      <textElement reference="../footerElement"/>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>1</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot[3]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>true</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>14</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>true</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>14</fretCount>
+      <startingFret>1</startingFret>
+      <specificFretNumberPosition>
+        <int>1</int>
+      </specificFretNumberPosition>
+      <titleVisible>true</titleVisible>
+      <footer>Title</footer>
+      <footerVisible>false</footerVisible>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <tuningBackgroundColour hex="#FFFFFF"/>
+      <tuningForegroundColour hex="#000000"/>
+      <key>NONE</key>
+      <rootNoteEnharmonic>B_sharp</rootNoteEnharmonic>
+      <backgroundStyle>COLOUR</backgroundStyle>
+      <fretboardTexture>textures/H1555_ST15.jpg</fretboardTexture>
+      <fretboardColor hex="#FFFF96"/>
+      <fretwireColor hex="#808080"/>
+      <nutColor hex="#000000"/>
+      <noteMarkerColor hex="#000000"/>
+      <noteMarkerTextColor hex="#FFFFFF"/>
+      <noteHollowMarkerTextColor hex="#000000"/>
+      <titleBackgroundColour hex="#FFFFFF"/>
+      <titleForegroundColour hex="#000000"/>
+      <footerBackgroundColour hex="#FFFFFF"/>
+      <footerForegroundColour hex="#000000"/>
+      <noteMarkerRulerBackgroundColour hex="#FFFFFF"/>
+      <noteMarkerRulerForegroundColour hex="#000000"/>
+      <thinStringColour hex="#000000"/>
+      <thinBoldStringColour hex="#202020"/>
+      <thickOutlineStringColour hex="#303030"/>
+      <thickInteriorStringColour hex="#FFFFFF"/>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>false</highlightRoots>
+      <noteMarkerLabels>INTERVAL</noteMarkerLabels>
+      <openStringLabels>true</openStringLabels>
+      <upperExtensionSetting>SINGLE_OCTAVE_ONLY</upperExtensionSetting>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersShowOptions>STANDARD</fretNumbersShowOptions>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColour hex="#000000"/>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor hex="#C0C0C0"/>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <fretwiresWidth>DEFAULT</fretwiresWidth>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <legendBackgroundColour hex="#FFFFFF"/>
+      <legendForegroundColour hex="#000000"/>
+      <leftHanded>false</leftHanded>
+      <flipped>false</flipped>
+      <defaultDotSize units="cm">
+        <width>0.8202083334</width>
+        <height>0.8202083334</height>
+      </defaultDotSize>
+      <intervalColoursState>
+        <interval name="UNISON">
+          <state activated="false">
+            <colour hex="#FF0000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_2ND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="SECOND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FOURTH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FLAT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="PERFECT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+      </intervalColoursState>
+      <defaultFontSizeAdjustment>1</defaultFontSizeAdjustment>
+      <isDefaultUsingFontSizeAdjustment>false</isDefaultUsingFontSizeAdjustment>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <isUseCustomSize>false</isUseCustomSize>
+      <customSize>15</customSize>
+      <customSizePercent>100</customSizePercent>
+      <nutCustomSizePercent>80</nutCustomSizePercent>
+      <isUseNutCustomSize>false</isUseNutCustomSize>
+    </fretboard>
+    <shape>
+      <location units="cm">
+        <width>0.714375</width>
+        <height>1.42875</height>
+      </location>
+      <size units="cm">
+        <width>3.96875</width>
+        <height>2.645833334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>4.656666666</width>
+        <height>1.27</height>
+      </location>
+      <size units="cm">
+        <width>4.60375</width>
+        <height>2.804583334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>9.68375</width>
+        <height>1.42875</height>
+      </location>
+      <size units="cm">
+        <width>4.1275</width>
+        <height>2.645833334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>13.99645833</width>
+        <height>1.42875</height>
+      </location>
+      <size units="cm">
+        <width>3.96875</width>
+        <height>2.645833334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <fretboard>
+      <location units="cm">
+        <width>1.534583333</width>
+        <height>7.3025</height>
+      </location>
+      <size units="cm">
+        <width>15.98083333</width>
+        <height>6.50875</height>
+      </size>
+      <fretboardStyle reference="../../fretboard/titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
+      <titleElement type="8">
+        <containerStyle reference="../../../fretboard/titleElement/blockElement/containerStyle/parentStyle"/>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+              <parentStyle>
+                <parentStyle reference="../../../../../../../pageStyle"/>
+              </parentStyle>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+          <text type="0">
+            <content>C                  A             G           E         D         C</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>HEADER</textType>
+        <hasShadow>false</hasShadow>
+      </titleElement>
+      <footerElement type="8">
+        <containerStyle reference="../../../fretboard/footerElement/blockElement/containerStyle/parentStyle"/>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+              <parentStyle reference="../../../../../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+          <text type="0">
+            <content>Footer</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>FOOTER</textType>
+        <hasShadow>false</hasShadow>
+      </footerElement>
+      <textElement reference="../titleElement"/>
+      <textElement reference="../footerElement"/>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>1</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>14</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>14</fretCount>
+      <startingFret>1</startingFret>
+      <specificFretNumberPosition reference="../../fretboard/specificFretNumberPosition"/>
+      <titleVisible>true</titleVisible>
+      <footer>Title</footer>
+      <footerVisible>false</footerVisible>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <tuningBackgroundColour hex="#FFFFFF"/>
+      <tuningForegroundColour hex="#000000"/>
+      <key>NONE</key>
+      <rootNoteEnharmonic>B_sharp</rootNoteEnharmonic>
+      <backgroundStyle>COLOUR</backgroundStyle>
+      <fretboardTexture>textures/H1555_ST15.jpg</fretboardTexture>
+      <fretboardColor hex="#FFFF96"/>
+      <fretwireColor hex="#808080"/>
+      <nutColor hex="#000000"/>
+      <noteMarkerColor hex="#000000"/>
+      <noteMarkerTextColor hex="#FFFFFF"/>
+      <noteHollowMarkerTextColor hex="#000000"/>
+      <titleBackgroundColour hex="#FFFFFF"/>
+      <titleForegroundColour hex="#000000"/>
+      <footerBackgroundColour hex="#FFFFFF"/>
+      <footerForegroundColour hex="#000000"/>
+      <noteMarkerRulerBackgroundColour hex="#FFFFFF"/>
+      <noteMarkerRulerForegroundColour hex="#000000"/>
+      <thinStringColour hex="#000000"/>
+      <thinBoldStringColour hex="#202020"/>
+      <thickOutlineStringColour hex="#303030"/>
+      <thickInteriorStringColour hex="#FFFFFF"/>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>false</highlightRoots>
+      <noteMarkerLabels>INTERVAL</noteMarkerLabels>
+      <openStringLabels>true</openStringLabels>
+      <upperExtensionSetting>SINGLE_OCTAVE_ONLY</upperExtensionSetting>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersShowOptions>STANDARD</fretNumbersShowOptions>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColour hex="#000000"/>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor hex="#C0C0C0"/>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <fretwiresWidth>DEFAULT</fretwiresWidth>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <legendBackgroundColour hex="#FFFFFF"/>
+      <legendForegroundColour hex="#000000"/>
+      <leftHanded>false</leftHanded>
+      <flipped>false</flipped>
+      <defaultDotSize reference="../../fretboard/defaultDotSize"/>
+      <intervalColoursState>
+        <interval name="UNISON">
+          <state activated="false">
+            <colour hex="#FF0000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_2ND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="SECOND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FOURTH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FLAT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="PERFECT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+      </intervalColoursState>
+      <defaultFontSizeAdjustment>1</defaultFontSizeAdjustment>
+      <isDefaultUsingFontSizeAdjustment>false</isDefaultUsingFontSizeAdjustment>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <isUseCustomSize>false</isUseCustomSize>
+      <customSize>15</customSize>
+      <customSizePercent>100</customSizePercent>
+      <nutCustomSizePercent>80</nutCustomSizePercent>
+      <isUseNutCustomSize>false</isUseNutCustomSize>
+    </fretboard>
+    <shape>
+      <location units="cm">
+        <width>1.296458333</width>
+        <height>8.651875</height>
+      </location>
+      <size units="cm">
+        <width>3.96875</width>
+        <height>3.386666666</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>5.741458334</width>
+        <height>8.651875</height>
+      </location>
+      <size units="cm">
+        <width>2.989791666</width>
+        <height>3.175</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>9.075208334</width>
+        <height>8.810625</height>
+      </location>
+      <size units="cm">
+        <width>4.736041666</width>
+        <height>2.8575</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>13.99645833</width>
+        <height>8.651875</height>
+      </location>
+      <size units="cm">
+        <width>4.312708334</width>
+        <height>3.01625</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <fretboard>
+      <location units="cm">
+        <width>1.217083333</width>
+        <height>13.83770833</height>
+      </location>
+      <size units="cm">
+        <width>15.98083333</width>
+        <height>6.50875</height>
+      </size>
+      <fretboardStyle reference="../../fretboard[2]/titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
+      <titleElement type="8">
+        <containerStyle reference="../../../fretboard[2]/titleElement/blockElement/containerStyle/parentStyle"/>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+              <parentStyle>
+                <parentStyle reference="../../../../../../../pageStyle"/>
+              </parentStyle>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+          <text type="0">
+            <content>C                  A             G           E         D</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>HEADER</textType>
+        <hasShadow>false</hasShadow>
+      </titleElement>
+      <footerElement type="8">
+        <containerStyle reference="../../../fretboard[2]/footerElement/blockElement/containerStyle/parentStyle"/>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+              <parentStyle reference="../../../../../titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+          <text type="0">
+            <content>Footer</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>FOOTER</textType>
+        <hasShadow>false</hasShadow>
+      </footerElement>
+      <textElement reference="../titleElement"/>
+      <textElement reference="../footerElement"/>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>1</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>14</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard/dot[13]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>14</fretCount>
+      <startingFret>1</startingFret>
+      <specificFretNumberPosition reference="../../fretboard/specificFretNumberPosition"/>
+      <titleVisible>true</titleVisible>
+      <footer>Title</footer>
+      <footerVisible>false</footerVisible>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <tuningBackgroundColour hex="#FFFFFF"/>
+      <tuningForegroundColour hex="#000000"/>
+      <key>NONE</key>
+      <rootNoteEnharmonic>B_sharp</rootNoteEnharmonic>
+      <backgroundStyle>COLOUR</backgroundStyle>
+      <fretboardTexture>textures/H1555_ST15.jpg</fretboardTexture>
+      <fretboardColor hex="#FFFF96"/>
+      <fretwireColor hex="#808080"/>
+      <nutColor hex="#000000"/>
+      <noteMarkerColor hex="#000000"/>
+      <noteMarkerTextColor hex="#FFFFFF"/>
+      <noteHollowMarkerTextColor hex="#000000"/>
+      <titleBackgroundColour hex="#FFFFFF"/>
+      <titleForegroundColour hex="#000000"/>
+      <footerBackgroundColour hex="#FFFFFF"/>
+      <footerForegroundColour hex="#000000"/>
+      <noteMarkerRulerBackgroundColour hex="#FFFFFF"/>
+      <noteMarkerRulerForegroundColour hex="#000000"/>
+      <thinStringColour hex="#000000"/>
+      <thinBoldStringColour hex="#202020"/>
+      <thickOutlineStringColour hex="#303030"/>
+      <thickInteriorStringColour hex="#FFFFFF"/>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>false</highlightRoots>
+      <noteMarkerLabels>INTERVAL</noteMarkerLabels>
+      <openStringLabels>true</openStringLabels>
+      <upperExtensionSetting>SINGLE_OCTAVE_ONLY</upperExtensionSetting>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersShowOptions>STANDARD</fretNumbersShowOptions>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColour hex="#000000"/>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor hex="#C0C0C0"/>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <fretwiresWidth>DEFAULT</fretwiresWidth>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <legendBackgroundColour hex="#FFFFFF"/>
+      <legendForegroundColour hex="#000000"/>
+      <leftHanded>false</leftHanded>
+      <flipped>false</flipped>
+      <defaultDotSize reference="../../fretboard/defaultDotSize"/>
+      <intervalColoursState>
+        <interval name="UNISON">
+          <state activated="false">
+            <colour hex="#FF0000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_2ND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="SECOND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FOURTH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FLAT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="PERFECT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+      </intervalColoursState>
+      <defaultFontSizeAdjustment>1</defaultFontSizeAdjustment>
+      <isDefaultUsingFontSizeAdjustment>false</isDefaultUsingFontSizeAdjustment>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <isUseCustomSize>false</isUseCustomSize>
+      <customSize>15</customSize>
+      <customSizePercent>100</customSizePercent>
+      <nutCustomSizePercent>80</nutCustomSizePercent>
+      <isUseNutCustomSize>false</isUseNutCustomSize>
+    </fretboard>
+    <fretboard>
+      <location units="cm">
+        <width>1.534583333</width>
+        <height>20.69041667</height>
+      </location>
+      <size units="cm">
+        <width>15.98083333</width>
+        <height>6.50875</height>
+      </size>
+      <fretboardStyle reference="../../fretboard[3]/titleElement/blockElement/containerStyle/parentStyle/parentStyle"/>
+      <titleElement type="8">
+        <containerStyle reference="../../../fretboard[3]/titleElement/blockElement/containerStyle/parentStyle"/>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle reference="../../../../../fretboard[3]/titleElement/blockElement/containerStyle/parentStyle"/>
+          </containerStyle>
+          <text type="0">
+            <content>C                  A             G           E         D</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>HEADER</textType>
+        <hasShadow>false</hasShadow>
+      </titleElement>
+      <footerElement type="8">
+        <containerStyle reference="../../../fretboard[3]/footerElement/blockElement/containerStyle/parentStyle"/>
+        <blockElement type="4">
+          <containerStyle>
+            <parentStyle reference="../../../../../fretboard[3]/footerElement/blockElement/containerStyle/parentStyle"/>
+          </containerStyle>
+          <text type="0">
+            <content>Footer</content>
+          </text>
+        </blockElement>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>FOOTER</textType>
+        <hasShadow>false</hasShadow>
+      </footerElement>
+      <textElement reference="../titleElement"/>
+      <textElement reference="../footerElement"/>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>1</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>14</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard/dot[22]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>14</fretCount>
+      <startingFret>1</startingFret>
+      <specificFretNumberPosition reference="../../fretboard/specificFretNumberPosition"/>
+      <titleVisible>true</titleVisible>
+      <footer>Title</footer>
+      <footerVisible>false</footerVisible>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <tuningBackgroundColour hex="#FFFFFF"/>
+      <tuningForegroundColour hex="#000000"/>
+      <key>NONE</key>
+      <rootNoteEnharmonic>B_sharp</rootNoteEnharmonic>
+      <backgroundStyle>COLOUR</backgroundStyle>
+      <fretboardTexture>textures/H1555_ST15.jpg</fretboardTexture>
+      <fretboardColor hex="#FFFF96"/>
+      <fretwireColor hex="#808080"/>
+      <nutColor hex="#000000"/>
+      <noteMarkerColor hex="#000000"/>
+      <noteMarkerTextColor hex="#FFFFFF"/>
+      <noteHollowMarkerTextColor hex="#000000"/>
+      <titleBackgroundColour hex="#FFFFFF"/>
+      <titleForegroundColour hex="#000000"/>
+      <footerBackgroundColour hex="#FFFFFF"/>
+      <footerForegroundColour hex="#000000"/>
+      <noteMarkerRulerBackgroundColour hex="#FFFFFF"/>
+      <noteMarkerRulerForegroundColour hex="#000000"/>
+      <thinStringColour hex="#000000"/>
+      <thinBoldStringColour hex="#202020"/>
+      <thickOutlineStringColour hex="#303030"/>
+      <thickInteriorStringColour hex="#FFFFFF"/>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>false</highlightRoots>
+      <noteMarkerLabels>INTERVAL</noteMarkerLabels>
+      <openStringLabels>true</openStringLabels>
+      <upperExtensionSetting>SINGLE_OCTAVE_ONLY</upperExtensionSetting>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersShowOptions>STANDARD</fretNumbersShowOptions>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColour hex="#000000"/>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor hex="#C0C0C0"/>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <fretwiresWidth>DEFAULT</fretwiresWidth>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <legendBackgroundColour hex="#FFFFFF"/>
+      <legendForegroundColour hex="#000000"/>
+      <leftHanded>false</leftHanded>
+      <flipped>false</flipped>
+      <defaultDotSize reference="../../fretboard/defaultDotSize"/>
+      <intervalColoursState>
+        <interval name="UNISON">
+          <state activated="false">
+            <colour hex="#FF0000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_2ND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="SECOND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FOURTH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FLAT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="PERFECT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+      </intervalColoursState>
+      <defaultFontSizeAdjustment>1</defaultFontSizeAdjustment>
+      <isDefaultUsingFontSizeAdjustment>false</isDefaultUsingFontSizeAdjustment>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <isUseCustomSize>false</isUseCustomSize>
+      <customSize>15</customSize>
+      <customSizePercent>100</customSizePercent>
+      <nutCustomSizePercent>80</nutCustomSizePercent>
+      <isUseNutCustomSize>false</isUseNutCustomSize>
+    </fretboard>
+    <shape>
+      <location units="cm">
+        <width>0.714375</width>
+        <height>16.03375</height>
+      </location>
+      <size units="cm">
+        <width>5.344583334</width>
+        <height>3.01625</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>6.0325</width>
+        <height>16.03375</height>
+      </location>
+      <size units="cm">
+        <width>4.1275</width>
+        <height>2.831041666</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>10.13354167</width>
+        <height>16.21895833</height>
+      </location>
+      <size units="cm">
+        <width>3.96875</width>
+        <height>2.645833334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>2.8575</width>
+        <height>23.8125</height>
+      </location>
+      <size units="cm">
+        <width>3.201458334</width>
+        <height>2.645833334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>11.77395833</width>
+        <height>23.8125</height>
+      </location>
+      <size units="cm">
+        <width>4.497916666</width>
+        <height>2.883958334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <shape>
+      <location units="cm">
+        <width>6.0325</width>
+        <height>23.8125</height>
+      </location>
+      <size units="cm">
+        <width>5.767916666</width>
+        <height>2.883958334</height>
+      </size>
+      <shapeType>OVAL</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#C0C0C0"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>1.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <connections/>
+    <backgroundColor hex="#FFFFFF"/>
+    <pageSize units="CENTIMETRES">
+      <width>21.0</width>
+      <height>29.7</height>
+    </pageSize>
+  </page>
+  <leftRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>false</horizontal>
+  </leftRuler>
+  <topRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>true</horizontal>
+  </topRuler>
+  <rulersVisibility>true</rulersVisibility>
+  <snapToGeometry>true</snapToGeometry>
+  <gridEnabled>false</gridEnabled>
+  <zoom>1.0</zoom>
+</document>

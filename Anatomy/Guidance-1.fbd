@@ -1,0 +1,98 @@
+<document version="2.8" origin="WIN32">
+  <location units="cm">
+    <width>0</width>
+    <height>0</height>
+  </location>
+  <documentStyle>
+    <parentStyle class="canvasStyle" fontFamily="Segoe UI" fontHeight="9.0"/>
+  </documentStyle>
+  <instrumentsUsed/>
+  <imagesData/>
+  <page>
+    <location units="cm">
+      <width>0</width>
+      <height>0</height>
+    </location>
+    <pageStyle>
+      <parentStyle reference="../../../documentStyle"/>
+    </pageStyle>
+    <textElement type="8">
+      <containerStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14.0" italic="false" underline="false" strikethrough="false">
+        <parentStyle reference="../../../pageStyle"/>
+        <fontColor hex="#000000"/>
+        <borderColor hex="#000000"/>
+        <fillColor hex="#C0C0C0"/>
+        <highlightColor hex="#FFFFFF"/>
+        <borderThickness>2</borderThickness>
+        <borderShow>true</borderShow>
+        <isTransparent>true</isTransparent>
+      </containerStyle>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Practice triads vertically and horizontally.</content>
+        </text>
+      </blockElement>
+      <blockElement type="4">
+        <containerStyle>
+          <parentStyle reference="../../../containerStyle"/>
+        </containerStyle>
+        <text type="0">
+          <content>Some triads are on the border shared by adjacent shapes.</content>
+        </text>
+      </blockElement>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <location units="cm">
+        <width>0.3175</width>
+        <height>0.2910416666</height>
+      </location>
+      <size units="cm">
+        <width>20.399375</width>
+        <height>29.36875</height>
+      </size>
+      <shape>RECTANGLE</shape>
+      <textType>TEXT</textType>
+      <hasShadow>false</hasShadow>
+    </textElement>
+    <connections/>
+    <backgroundColor hex="#FFFFFF"/>
+    <pageSize units="CENTIMETRES">
+      <width>21.0</width>
+      <height>29.7</height>
+    </pageSize>
+  </page>
+  <leftRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>false</horizontal>
+  </leftRuler>
+  <topRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>true</horizontal>
+  </topRuler>
+  <rulersVisibility>true</rulersVisibility>
+  <snapToGeometry>true</snapToGeometry>
+  <gridEnabled>false</gridEnabled>
+  <zoom>1.0</zoom>
+</document>
