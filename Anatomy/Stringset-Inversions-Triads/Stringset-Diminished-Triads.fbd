@@ -1523,7 +1523,7 @@
         <customSizePercent>0</customSizePercent>
         <location>
           <stringNumber>5</stringNumber>
-          <fret>11</fret>
+          <fret>9</fret>
         </location>
         <type reference="../../../fretboard[2]/dot/type"/>
         <backgroundStyle>DEFAULT</backgroundStyle>
@@ -2261,12 +2261,12 @@
     </shape>
     <shape>
       <location units="cm">
-        <width>8.678333334</width>
+        <width>8.546041666</width>
         <height>16.113125</height>
       </location>
       <size units="cm">
-        <width>4.736041666</width>
-        <height>3.254375</height>
+        <width>3.783541666</width>
+        <height>2.487083333</height>
       </size>
       <shapeType>OVAL</shapeType>
       <borderColor hex="#000000"/>

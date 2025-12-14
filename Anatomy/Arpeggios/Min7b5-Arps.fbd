@@ -3340,6 +3340,24 @@
         <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
         <isOctaveVisible>false</isOctaveVisible>
       </dot>
+      <dot>
+        <isTransparentBackground>false</isTransparentBackground>
+        <customSize>0</customSize>
+        <customSizePercent>0</customSizePercent>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>16</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
       <tuning reference="../../../instrumentsUsed/tuning"/>
       <fretCount>16</fretCount>
       <startingFret>1</startingFret>
