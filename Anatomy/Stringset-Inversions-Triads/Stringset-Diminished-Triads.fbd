@@ -203,7 +203,7 @@
         <customSizePercent>0</customSizePercent>
         <location>
           <stringNumber>3</stringNumber>
-          <fret>9</fret>
+          <fret>8</fret>
         </location>
         <type reference="../../dot[3]/type"/>
         <backgroundStyle>DEFAULT</backgroundStyle>
@@ -2349,7 +2349,7 @@
     </shape>
     <shape>
       <location units="cm">
-        <width>9.128125</width>
+        <width>8.89</width>
         <height>1.42875</height>
       </location>
       <size units="cm">
